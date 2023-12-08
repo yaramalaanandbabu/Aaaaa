@@ -1,0 +1,26 @@
+body{
+    margin:0px;
+}
+main{
+    margin-left:20px;
+    margin-right: 20px;
+}
+h1{
+    text-align: center;
+}
+.navbar ul{
+ list-style-type: none;
+    background-color: darkblue;
+    padding: 1px;
+    margin: 1px;
+    }
+.navbar a{
+    color:azure;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: orangered
+}
